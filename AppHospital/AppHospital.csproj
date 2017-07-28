@@ -152,6 +152,7 @@
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\PersonaDBInitializer.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Areas\HelpPage\ApiDescriptionExtensions.cs" />
@@ -194,7 +195,6 @@
     <Compile Include="Models\Medico.cs" />
     <Compile Include="Models\Paciente.cs" />
     <Compile Include="Models\Persona.cs" />
-    <Compile Include="Models\PersonaBDContexto.cs" />
     <Compile Include="Models\Prestacion.cs" />
     <Compile Include="Models\Recurso.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
