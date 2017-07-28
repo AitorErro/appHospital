@@ -1,10 +1,6 @@
-﻿using System;
+﻿using AppHospital.Models;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using System.Data.Entity;
-using AppHospital.DataAccess;
-using AppHospital.Models;
 
 namespace AppHospital.App_Start
 {
